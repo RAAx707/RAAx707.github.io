@@ -1,3 +1,7 @@
+layout: page
+title: "README"
+permalink: /README
+
 # H1
 ## H2
 ### H3
